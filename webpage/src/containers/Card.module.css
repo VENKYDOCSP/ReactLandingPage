@@ -1,0 +1,23 @@
+.font1{
+    color: #FFF;
+font-family: Yellowtail;
+font-weight: 700;
+}
+
+.font2{
+    color: #7EB693;
+font-family: Yellowtail;
+font-weight: 200;
+}
+
+.font3{
+    color: #274C5B;
+font-family: Roboto;
+font-weight: 800;
+}
+
+.position{
+    top:35% !important;
+    left: 10% !important;
+    bottom: 35% !important ;
+}

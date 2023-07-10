@@ -1,0 +1,22 @@
+.myElement {
+    font-size: 2rem;
+    color: #274C5B;
+font-family: Roboto;
+font-weight: 700;
+  }
+
+.topic{
+    color: #274C5B;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 700;
+
+}
+
+.input{
+        --bs-navbar-active-color: none !important;
+}
+
+.bg{
+    background-color: #FAFAFA !important;
+}

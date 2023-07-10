@@ -1,0 +1,24 @@
+/* .h{
+    height: 800px !important;
+    max-height: 800px !important;
+} */
+
+.Radius{
+    border-radius: 100px;
+}
+
+.line{
+    border: 2px;
+    height: 1px;
+    background-color: #E0E0E0;
+}
+
+.Circle{
+    width: 123px;
+    height: 123px;
+    border-radius: 100px;
+    border:solid 3px #7EB693;
+    background-color: #F1F1F1;
+    
+    
+}

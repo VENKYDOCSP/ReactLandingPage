@@ -1,0 +1,13 @@
+.ht{
+    height: 45px;
+}
+
+.mar{
+   margin-top: 100px;
+}
+
+@media (max-width: 912px) {
+    .mar{
+        margin-top: 200px;
+    }
+  }

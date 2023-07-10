@@ -1,0 +1,41 @@
+.pta{
+    /* left: 45%; */
+    position: absolute;
+    right: 6%;
+    top: 10%;
+    bottom: 10%;
+    /* bottom: 15%; */
+}
+
+.wrap {
+    overflow-wrap: break-word;
+  }
+
+
+.textContainer {
+    max-height: 300px; 
+    overflow: auto; 
+  }
+  
+
+  
+
+  .cardContainer {
+    margin: 0 auto;
+    height: 500px;
+  }
+
+  @media (max-width: 912px) {
+    .cardContainer {
+      position: relative;
+      right: 0px;
+      top: 100%;
+    }
+  }
+
+  @media (width: 1024px) {
+    .cardContainer {
+       top: 0.5%;
+    }
+  }
+  

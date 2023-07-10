@@ -1,0 +1,41 @@
+.fontt{
+    color: #68A47F;
+font-family: Yellowtail;
+font-weight: 400;
+}
+
+.font2{
+
+    color: #274C5B;
+font-family: Roboto;
+font-weight: 800;
+text-align: left;
+
+}
+
+.position{
+    bottom: 25%;
+    top: 30%;
+    left: 11%;
+}
+
+.text_Size{
+    
+}
+
+.btn{
+    background: #EFD372 !important;
+    padding: 15px 39px !important;
+}
+
+@media (max-width: 912px) {
+    .btn{
+        padding: 9px 10px !important; 
+    }
+  }
+
+  @media (max-width: 412px) {
+    .position{
+        top:9%
+    }
+  }
